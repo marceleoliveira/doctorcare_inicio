@@ -1,0 +1,5 @@
+o erro que pode ocorrer na tentativa de ativação do sistema é:
+
+a chave do produto não estar condizente com a que está no banco, na coluna CODIGO dentro da tabela dbo.Ativacao_dc
+
+obs: toda chave gerada deve conter números, caso contrário, também dará erro 

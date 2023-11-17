@@ -1,0 +1,9 @@
+﻿# Arquivos temporários
+*.pyc
+__pycache__/
+
+# Ambiente virtual
+venv/
+
+# Arquivos gerados pelo QtDesigner
+*.ui
